@@ -16,7 +16,7 @@ color: white ;
 
 .menu a {
     /*color: white;*/
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;   
 }
